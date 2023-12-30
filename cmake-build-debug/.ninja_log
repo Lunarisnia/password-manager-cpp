@@ -1,0 +1,11 @@
+# ninja log v5
+3	391	7256584695738208	CMakeFiles/password_manager.dir/ListPasswordAction.cpp.obj	e6b173b561ec1e3b
+2	506	7256581061963766	CMakeFiles/password_manager.dir/main.cpp.obj	4f4702ecce7528db
+12	377	7255794035267656	CMakeFiles/password_manager.dir/Action.cpp.obj	5503a77726f0bd35
+553	686	7256584956202624	password_manager.exe	d7f9c77253399daf
+6	291	7256555412015448	CMakeFiles/password_manager.dir/Storage.cpp.obj	ba1b125e94d1e7c5
+10	374	7255794035237654	CMakeFiles/password_manager.dir/ExitAction.cpp.obj	e6fee494e790af
+6	640	7256580936737547	CMakeFiles/password_manager.dir/Menu.cpp.obj	be0869a5b5fbd463
+3	553	7256584954902330	CMakeFiles/password_manager.dir/GeneratePasswordAction.cpp.obj	2523cf524c3c91ef
+1	103	7256587638791568	build.ninja	b8ccba522e0de8ec
+8	543	7256580935777328	CMakeFiles/password_manager.dir/ItemStorage.cpp.obj	41d01688476fc75e
